@@ -1,11 +1,11 @@
 import click
-from rich.console import Console
+from rich.console import Console     #Beautiful terminal outpput
 from cli.commands import upload, chat, search, manage
 
 console = Console()
 
 @click.group()
-@click.version_option(version='1.0.0')
+@click.version_option(version='1.0.0')    #check version 
 def cli():
     """
     Local RAG System - CLI Version
