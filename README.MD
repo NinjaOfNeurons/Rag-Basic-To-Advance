@@ -1,4 +1,4 @@
-# RAG — Basics to Advanced 📚🧠
+# RAG — Basics to Advanced 
 
 This repository is my **personal learning workspace** for understanding and building  
 **Retrieval-Augmented Generation (RAG) systems** — starting from **fundamental concepts** and progressing toward **advanced, production-style implementations**.
@@ -11,7 +11,7 @@ The goal of this repo is **learning by building**:
 
 ---
 
-## 🎯 What This Repository Is
+##  What This Repository Is
 
 This is **not a tutorial repo** and not a polished framework.
 
@@ -28,22 +28,22 @@ I use this repo to:
 
 ---
 
-## 🧱 What You’ll Find Here
+## What You’ll Find Here
 
 Over time, this repository will include:
 
-- 📘 Notes on RAG concepts (from basics to advanced)
-- 🧠 Architecture explorations
-- 🧪 Experiments and prototypes
-- 🧾 Working implementations
-- 🔁 Refactors and iterations
-- ⚠️ Mistakes, fixes, and learnings
+-  Notes on RAG concepts (from basics to advanced)
+-  Architecture explorations
+-  Experiments and prototypes
+-  Working implementations
+-  Refactors and iterations
+-  Mistakes, fixes, and learnings
 
 One of the major implementations in this repo is a **CLI-based Local RAG System**, which lives deeper in the repository structure.
 
 ---
 
-## 🖥️ CLI-Based Local RAG System (One Implementation)
+##  CLI-Based Local RAG System (One Implementation)
 
 At a deeper level in this repo, I am working on a **command-line interface (CLI)** version of a local RAG system that:
 
@@ -55,11 +55,11 @@ At a deeper level in this repo, I am working on a **command-line interface (CLI)
 
 This implementation represents a **practical milestone** in my RAG learning journey, not the final destination.
 
-> 📌 The detailed CLI documentation is available in its own `README.md` inside the relevant subdirectory.
+>  The detailed CLI documentation is available in its own `README.md` inside the relevant subdirectory.
 
 ---
 
-## 🧭 Learning Scope (Evolving)
+##  Learning Scope (Evolving)
 
 Topics explored in this repo include (and will grow):
 
@@ -77,7 +77,7 @@ This list will expand as my understanding deepens.
 
 ---
 
-## 🙏 Credits & Acknowledgments
+##  Credits & Acknowledgments
 
 This repository is **inspired by and partially based on** the following open-source project:
 
@@ -95,7 +95,7 @@ All credit for the original implementation and ideas goes to the original author
 
 ---
 
-## ⚖️ License
+##  License
 
 This repository is licensed under the **MIT License**.
 
@@ -107,9 +107,9 @@ See the `LICENSE` file for details.
 
 ---
 
-## 🚧 Status
+##  Status
 
-🚧 **Actively learning & evolving**
+**Actively learning & evolving**
 
 This repo will change as:
 - my understanding improves
